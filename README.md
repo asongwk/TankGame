@@ -1,2 +1,2 @@
 # TankGame
-Create a game of Tank,C++ and Win32 API,
+Create a game of Tanks,C++ and Win32 API,
