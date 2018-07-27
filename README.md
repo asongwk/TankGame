@@ -8,8 +8,13 @@ as shown below:
 If you want to build this project under windows,you don't need to opencv or other GD library,you just install the Visual Studio.So installation steps are:
 
 1.clone the git.
+
 2.Open the Visual Studio(My VS version is Visual Studio 2013,maybe it will work with other version).
+
 3.Create a Win32 application project,choose "empty project".
+
 4.the right mouse button click the project name,"add"->"existing..",select the .h,.cpp,res folder,all files.
+
 5.run(F5)
+
 Have a good luck!
