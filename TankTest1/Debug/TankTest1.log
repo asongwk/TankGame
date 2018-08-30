@@ -1,0 +1,45 @@
+﻿生成启动时间为 2018/07/25 10:26:43。
+     1>项目“E:\Code\TankTest1\TankTest1\TankTest1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameTest.cpp Main.cpp T_Audio.cpp T_Bullet.cpp T_Engine.cpp T_Explode.cpp T_Graph.cpp T_Map.cpp T_Menu.cpp T_Tank.cpp
+         T_Tank.cpp
+         T_Menu.cpp
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(58): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(59): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(60): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(62): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(65): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(68): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>e:\code\tanktest1\tanktest1\t_menu.cpp(71): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+         T_Map.cpp
+     1>e:\code\tanktest1\tanktest1\t_map.cpp(287): warning C4018: “>=”: 有符号/无符号不匹配
+     1>e:\code\tanktest1\tanktest1\t_map.cpp(290): warning C4018: “>=”: 有符号/无符号不匹配
+     1>e:\code\tanktest1\tanktest1\t_map.cpp(348): warning C4018: “>=”: 有符号/无符号不匹配
+     1>e:\code\tanktest1\tanktest1\t_map.cpp(350): warning C4018: “>=”: 有符号/无符号不匹配
+         T_Graph.cpp
+         T_Explode.cpp
+         T_Engine.cpp
+         T_Bullet.cpp
+         T_Audio.cpp
+         Main.cpp
+         GameTest.cpp
+     1>e:\code\tanktest1\tanktest1\gametest.cpp(619): warning C4101: “str”: 未引用的局部变量
+     1>e:\code\tanktest1\tanktest1\gametest.cpp(790): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Code\TankTest1\Debug\TankTest1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Code\TankTest1\Debug\TankTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Code\TankTest1\Debug\TankTest1.lib" /MACHINE:X86 Debug\GameTest.obj
+         Debug\Main.obj
+         Debug\T_Audio.obj
+         Debug\T_Bullet.obj
+         Debug\T_Engine.obj
+         Debug\T_Explode.obj
+         Debug\T_Graph.obj
+         Debug\T_Map.obj
+         Debug\T_Menu.obj
+         Debug\T_Tank.obj
+         TankTest1.vcxproj -> E:\Code\TankTest1\Debug\TankTest1.exe
+     1>已完成生成项目“E:\Code\TankTest1\TankTest1\TankTest1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:28.83
